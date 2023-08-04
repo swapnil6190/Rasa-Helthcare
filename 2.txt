@@ -1,0 +1,25 @@
+Certainly! Here's an example of a self-introduction for a machine learning student with 2-3 years of experience:
+
+"Hello, [Lokesh sir]. I'm [Swapnil Lahamge], and I'm delighted to have the opportunity to interview with you today. 
+I am a machine learning enthusiast with 2-3 years of hands-on experience in this field.
+
+During my studies, I have graduation completed in BE in Pune University with a focus on machine learning and
+ artificial intelligence. I've had the privilege of working on various projects and coursework 
+that have provided me with a solid foundation in the principles and techniques of machine learning.
+
+I have Lots skill adapt me  Python , MySql ,mongodb, Machine learning ,AWs 
+. these skill adapted by me in my Carrier.I have Completed 
+recently project Ats system used  Data Loan Application data recognization .
+
+The Purpose of this project is an extracting a meaningful insight from
+given Documents for loan approval documents.
+Once the customer requests for a loan, the application is 
+forwarded to the officer. The officer
+verifies the documents, that document we extract important 
+information which we needed for loan
+application. Manually extracting information from numerous PDF files, 
+which consumed a significant
+amount of their time and energy. 
+Determine to trim the process and enhance productivity, begin on
+a project to implement an Optical Character Recognition (OCR) solution.
+ we use OCR.
